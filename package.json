@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "electron": "^24.3.1"
+  },
+  "name": "txtbook-client",
+  "description": "",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start" : "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
